@@ -68,5 +68,12 @@ Shown below in the 3D Area chart are the top 2 performing products across all ye
 ## 7. identifying the top 5 sales across all years and their profitability:
 Displayed in the Column chart below are the top 5 highest sales and their profitabily. 80% of the sale transactions were profitable, generating an average of 45% profit each. However, there is a noticeable 8% loss in the highest sale transaction amounting to a revenue loss of $1,811.08. Also, close investigation of the entire dataset revealed 1871 transactions with negative profits i.e losses, totalling an overall loss of ($156,131.29). Given that the overall profit generated was $286,397.02 this is a huge loss; about 45.5% of the total profit. Factors that contributed to this should be investigated and identified, and appropraite measures put in place to prevent further losses on sales across all regions.
 
-![](Top-Sales-Neg-Profit.png)
+![](Top-Sales-Neg-Profiit.png)
 
+## Conclusions And Recommendations
+- The profit margin for the USA superstore is about 12%. Depending on various factors including hisorical perfomance, business goals, economic conditions, amongst others, a correct assessment on whether or not this is low/high can be made.
+- Factors contributing to negative profits or losses should be investigated and mitigated to prevent further financial downturns.
+- Marketing initiatives should be deployed to boost sales during the months of January to August where sales can be seen to be stattic/low.
+- More inventory should be procured for top selling/performing products.
+
+# THANK YOU 😄
