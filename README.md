@@ -58,3 +58,13 @@ Using an Area chart, the quantities sold per product sub-category across all yea
 ### 5. Analysing the total profit for each year, any observable patterns and projections for 2018:
 Represented below by the 3D Pyramid chart is the total profit from 2014 to 2017. Clearly,there is an exponential increase in profit across all years averaging a total of 23.8% for the 3-year period. Profit in 2017 was lower than the preceeding year and factors contributing to this can be investigated. Overall, the last 3 years were profitable years and using the analysis, projections can be made for the coming year, 2018. We can predict profit to increase by an avverage of 23.8% in 2018 amounting to about $115,662.71.
 
+![](Total-profit-year.png)
+
+## 6.  Visualizing the top (2) performing products across all years:
+Shown below in the 3D Area chart are the top 2 performing products across all years. The product "Canon imageCLASS 2200 Advanced Copier" ranked best selling product with a total revenue of $53,199.85 while "Cisco TelePresence System EX90 Videoconferencing Unit" ranked 2nd best with a total revenue of $22,638.48.
+
+![](Top-2-products.png)
+
+## 7. identifying the top 5 sales across all years and their profitability:
+Displayed in the Column chart below are the top 5 highest sales and their profitabily. 80% of the sale transactions were profitable, generating an average of 45% profit each. However, there is a noticeable 8% loss in the highest sale transaction amounting to a revenue loss of $1,811.08. Also, close investigation of the entire dataset revealed 1871 transactions with negative profits i.e losses, totalling an overall loss of ($156,131.29). Given that the overall profit generated was $286,397.02 this is a huge loss; about 45.5% of the total profit. Factors that contributed to this should be investigated and identified, and appropraite measures put in place to prevent further losses on sales across all regions.
+
