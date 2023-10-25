@@ -58,4 +58,3 @@ Using an Area chart, the quantities sold per product sub-category across all yea
 ### 5. Analysing the total profit for each year, any observable patterns and projections for 2018:
 Represented below by the 3D Pyramid chart is the total profit from 2014 to 2017. Clearly,there is an exponential increase in profit across all years averaging a total of 23.8% for the 3-year period. Profit in 2017 was lower than the preceeding year and factors contributing to this can be investigated. Overall, the last 3 years were profitable years and using the analysis, projections can be made for the coming year, 2018. We can predict profit to increase by an avverage of 23.8% in 2018 amounting to about $115,662.71.
 
-![](Total-profit-year.png)
