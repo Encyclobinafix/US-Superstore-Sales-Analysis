@@ -1,4 +1,4 @@
-# US SUPERSTORE SALES ANALYSIS
+# U.S.A SUPERSTORE SALES ANALYSIS
 ![](Superstore-logo.jpg)
 
 ## Introduction
@@ -9,7 +9,7 @@ This is an Excel project focusing on analysing the **"USA Superstore"** sales da
 2. Can you identify different customer segments that generate the most profits and sales? How can you tailor marketing and sales strategies for each group?
 3. How do sales vary across different cities? What cities generated high sales? What factors contributed to this?
 4. What is the total quantity of products sold in all the product sub-categories in all years?
-5. What is the total profit for each year? Are there any observable patterns? 
+5. What is the total profit for each year? Are there any observable patterns? Can you make any projections for 2018?
 6. What are the top (2) performing products across all years?
 7. Can you identify the top 5 sales across all years and their profitability? Are there any concerns or observations?
 
@@ -54,3 +54,8 @@ The Bar Chart below displays the top 14 cities with the highest sales and the ca
 Using an Area chart, the quantities sold per product sub-category across all years were visualized. Worthy of note is the fact that the "Binders" sub-category of products consistently out-performed other sub-categories across all years, while the "Copiers" sub-category remained at the bottom, having the least quantity sold. This can help the company make better stocking decisions.
 
 ![](Quantity-sold-subcategory.png)
+
+### 5. Analysing the total profit for each year, any observable patterns and projections for 2018:
+Represented below by the 3D Pyramid chart is the total profit from 2014 to 2017. Clearly,there is an exponential increase in profit across all years averaging a total of 23.8% for the 3-year period. Profit in 2017 was lower than the preceeding year and factors contributing to this can be investigated. Overall, the last 3 years were profitable years and using the analysis, projections can be made for the coming year, 2018. We can predict profit to increase by an avverage of 23.8% in 2018 amounting to about $115,662.71.
+
+![](Total-profit-year.png)
