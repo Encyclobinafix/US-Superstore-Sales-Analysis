@@ -1,4 +1,4 @@
-# U.S.A SUPERSTORE SALES ANALYSIS
+# U.S.A SUPERSTORE SALES AND PROFITABILITY ANALYSIS
 ![](Superstore-logo.jpg)
 
 ## Introduction
@@ -72,7 +72,7 @@ Displayed in the Column chart below are the top 5 highest sales and their corres
 
 ## Conclusions And Recommendations
 - The profit margin for the USA superstore is about 12%. Depending on various factors including historical perfomance, business goals, economic conditions, amongst others, a correct assessment on whether or not this is low/high can be made.
-- Factors contributing to negative profits or losses should be investigated and mitigated to prevent further financial downturns.
+- Factors contributing to negative profits or losses should be investigated and mitigated to prevent further financial downturns. Product repricing can be done.
 - Marketing initiatives should be deployed to boost sales during the months of January to August where sales can be seen to be static/low.
 - More inventory should be procured for top selling/performing products.
 
